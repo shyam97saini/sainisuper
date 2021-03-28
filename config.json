@@ -1,0 +1,18 @@
+{
+    "params":{"copyright":"R S@ini",
+              "local_server":"True",
+              "local_uri":"mysql://root:@localhost/myshop",
+              "prod_uri":"mysql://root:@localhost/myshop",
+              "fb_uri":"https://facebook.com/myshop",
+              "gh_uri":"https://github.com/myshop",
+              "tw_uri":"https://twitter.com/myshop",
+              "email":"shyamccna1997@gmail.com",
+              "pwd":"Shyam@123",
+              "about_txt":"MY name is shyam i am a good student",
+              "noOfPost":2,
+              "AdminUname":"shyam",
+              "AdminPass":"shyam123",
+              "login_img":"login-logo.svg",
+              "upload_location":"c://Users//admn//Desktop//CASE STUDY PASSENGER TICKET BOOKING_SHYAM_SAINI//flaskproject//uploaded file"
+             }
+}
